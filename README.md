@@ -4,7 +4,7 @@
 
 InterAIct is an AI-powered interactive learning app designed to help autistic children practice social skills in real-world social scenarios, using on-device intelligence for a responsive and immersive experience. This application simulates different social scenarios that children would meet in real life and guidance them on understanding social cues, handling interactions, and responding to real-life situations.
 
-# Table of Contents
+## Table of Contents
 
 1. [Features](#features)
 2. [Preview](#preview)
@@ -25,14 +25,14 @@ InterAIct is an AI-powered interactive learning app designed to help autistic ch
 
 ## Preview
 
-![AI Learning Screenshot](src/ineractAI/assets/preview.png)
+![AI Learning Screenshot](src/interactAI/assets/preview.png)
 
 ## Prerequisite
 
 - Python 3.8+
 - Streamlit 1.32.0
 - ONNX Runtime
-- Other dependencies (check [requirements.txt](requirements.txt))
+- Other dependencies (check [requirements.txt](src/interactAI/requirements.txt))
 
 ## Installation
 
@@ -99,7 +99,7 @@ streamlit run app.py
 **Bijing Tang**  
 📧 Contact: [tang.bij@northeastern.edu](mailto:tang.bij@northeastern.edu)  
 **Charanya Ramprasad**  
-📧 Contact: [ramprasad.c@northeastern.edu](mailto:ramprasad.c@northeastern.edu)  
+📧 Contact: [charanya.ramprasad@gmail.com](mailto:charanya.ramprasad@gmail.com)  
 **Renlinhui Li**  
 📧 Contact: [li.renl@northeastern.edu](mailto:li.renl@northeastern.edu)  
 **Zhixiao Wu**  
