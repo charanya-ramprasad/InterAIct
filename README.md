@@ -40,7 +40,7 @@ InterAIct is an AI-powered interactive learning app designed to help autistic ch
 ### Clone The Repository:
 
 ```bash
-git clone [https://github.com/yourusername/lightning_mcqueen.git](https://github.com/woodsxwu/InterAIct.git)
+git clone https://github.com/charanya-ramprasad/InterAIct.git
 cd src/interAIct
 ```
 
