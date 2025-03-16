@@ -4,7 +4,7 @@
 
 InterAIct is an AI-powered interactive learning app designed to help autistic children practice social skills in real-world social scenarios, using on-device intelligence for a responsive and immersive experience. This application simulates different social scenarios that children would meet in real life and guidance them on understanding social cues, handling interactions, and responding to real-life situations.
 
-## Table of Contents
+# Table of Contents
 
 1. [Features](#features)
 2. [Preview](#preview)
@@ -21,26 +21,27 @@ InterAIct is an AI-powered interactive learning app designed to help autistic ch
 - 👏 **Interactive Choices & Feedback**
 - 📝 **Emotion Report Genetation**
 - 🛟 **High Privacy & Security**
-- 💻 **NPU Acceleration Support**
 
 ## Preview
 
-![AI Learning Screenshot](src/interactAI/assets/preview.png)
+![AI Learning Screenshot](screenshots/choosing_avatars.png)
+![AI Learning Screenshot](screenshots/process.png)
+![AI Learning Screenshot](screenshots/report.png)
 
 ## Prerequisite
 
 - Python 3.8+
 - Streamlit 1.32.0
 - ONNX Runtime
-- Other dependencies (check [requirements.txt](src/interactAI/requirements.txt))
+- Other dependencies (check [requirements.txt](requirements.txt))
 
 ## Installation
 
 ### Clone The Repository:
 
 ```bash
-git clone https://github.com/yourusername/lightning_mcqueen.git
-cd lightning_mcqueen/src/interactAI
+git clone [https://github.com/yourusername/lightning_mcqueen.git](https://github.com/woodsxwu/InterAIct.git)
+cd src/interAIct
 ```
 
 ### Create a Virtual Environment:
